@@ -21,7 +21,8 @@ Finally, these spectrograms are input into a deep learning model, which leverage
 
 The model is based on the Swin Transformer architecture, designed to process time-frequency graph data for classification and prediction tasks. The diagrams below illustrate our model's overall architecture and substructure. Ultimately, the model determines whether the graph contains a spindle and recognizes its relative starting and ending coordinates.
 
-![图片 1](https://github.com/user-attachments/assets/30749d4f-6b67-45c3-8488-777af1f320b2)
+![图片 1](https://github.com/user-attachments/assets/78853a7f-2133-4c89-a599-c470b6c5f0a2)
+
 
 ![图片 2](https://github.com/user-attachments/assets/c9f5c992-3cd1-4197-a20b-55d159fba9cf)
 
