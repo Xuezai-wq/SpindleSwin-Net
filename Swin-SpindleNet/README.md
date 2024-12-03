@@ -1,4 +1,0 @@
-## Swin-SpindleNet for sleep spindles detection
--This Swin-SpindleNet is built upon the research presented in the paper titled "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows". We sincerely thank the authors and contributors of the Swin Transformer project for their groundbreaking work in developing this innovative vision transformer model. Their dedication and research have significantly advanced the field, and their code has been instrumental in the success and functionality of our project.
-- The implemented code is based on GitHub at [WZMIAOMIAO/deep-learning-for-image-processing]（https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/tree/master/pytorch_classification/swin_transformer）.
-- We have adapted and expanded upon it to meet the specific requirements of our implementation. 
