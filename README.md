@@ -1,4 +1,4 @@
-[figure2a_2b_2c.tif](https://github.com/user-attachments/files/23353202/figure2a_2b_2c.tif)# SpindleSwin-Net
+# SpindleSwin-Net
 
 ## Description
 
