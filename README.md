@@ -2,7 +2,7 @@
 
 ## Description
 
-SpindleSwin-Net: End-to-end and flexible sleep spindles detection for EEG signals based on wavelet transform and Swin-Transformer.
+SpindleSwin-Net: End-to-end and flexible sleep spindle detection for EEG signals based on wavelet and advanced vision transformer
 
 Sleep spindle is an important physiological event which can be monitored by EEG that typically occurs in non-REM sleep. The detected spindle can be taken as a significant reference, which contributes to the neural mechanisms of cognition associated with sleep and pathophysiological underpinnings of sleep disorders. In this study, we proposed first transformer-based spindle detection approach on EEG signals combining wavelet transform and Swin-Transformer.
 
