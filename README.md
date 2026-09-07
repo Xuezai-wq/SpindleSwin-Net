@@ -37,6 +37,19 @@ The model is based on the Swin Transformer architecture, designed to process tim
 
 
 ## Citations
+``` 
+@article{xia2027spindleswinnet,
+  title={SpindleSwin-Net: End-to-end and flexible sleep spindle detection for {EEG} signals based on wavelet and advanced vision transformer},
+  author={Xia, Shao-Jun and Sun, Anlan and Bao, Jing and Wang, Zhi-Nan and Li, Xiao-Ting and Sun, Ying-Shi},
+  journal={Biomedical Signal Processing and Control},
+  volume={129},
+  number={Part A},
+  pages={111176},
+  year={2027},
+  doi={10.1016/j.bspc.2026.111176}
+}
+``` 
+## References
 
 ```tex
 @article{oreilly2014mass,
