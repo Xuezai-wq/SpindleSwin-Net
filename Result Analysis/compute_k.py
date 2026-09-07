@@ -1,6 +1,3 @@
-下面是将所有中文注释改为英文、同时恢复了代码缩进和 `__name__` 写法后的完整版本。计算逻辑没有改变。
-
-```python
 import os
 import re
 import warnings
@@ -275,4 +272,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
+
