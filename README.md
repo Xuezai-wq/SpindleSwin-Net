@@ -1,3 +1,4 @@
+[output1.tif](https://github.com/user-attachments/files/31891477/output1.tif)
 # SpindleSwin-Net
 
 ## Description
@@ -9,18 +10,19 @@ Sleep spindle is an important physiological event which can be monitored by EEG 
 ## Implementation
 
 We extract data from raw EEG signals, focusing on regions of interest. The extracted signals are then subjected to a wavelet transform, which converts them into the frequency domain, enabling the generation of detailed time-frequency spectrograms. These spectrograms provide a visual representation of the signal's frequency dynamics over time, capturing key patterns and features. Here, we used two datasets, MASS and DREAMS, to train the model in order to achieve optimal performance. 
-<img width="800" height="350" alt="图片 2" src="https://github.com/user-attachments/files/31880057/output1.tif" width="70%"/>
 
 
+
+<img width="4665" height="2625" alt="figure1a_1b_1c_1d" src="https://github.com/user-attachments/assets/631429fb-a119-442d-95a7-b45eda901803" />
 
 
 These spectrograms are input into a deep learning model, which leverages its advanced feature extraction and learning capabilities to perform classification and prediction tasks with high precision. This process facilitates further analysis such as specific sleep events or brain activity patterns.
 
-<img width="800" height="300" alt="图片 2" src="https://github.com/user-attachments/files/31880049/output4.tif" width="70%"/>
+<img width="4665" height="2625" alt="figure5" src="https://github.com/user-attachments/assets/d6705d70-b4ef-4691-afd2-184a35bdc46e" />
+
+<img width="3300" height="2197" alt="figure2a_2b_2c" src="https://github.com/user-attachments/assets/c61c6cb9-3de3-448f-b614-1b7b10b89c13" />
 
 
-
-<img width="600" height="450" alt="图片 1" src="https://github.com/user-attachments/files/31880077/output2.tif" />
 
 
 
@@ -30,7 +32,7 @@ These spectrograms are input into a deep learning model, which leverages its adv
 
 The model is based on the Swin Transformer architecture, designed to process time-frequency graph data for classification and prediction tasks. The diagrams below illustrate our model's overall architecture and substructure. Ultimately, the model determines whether the graph contains a spindle and recognizes its relative starting and ending coordinates.
 
-<img width="800" height="400" alt="模型图" src="https://github.com/user-attachments/files/31880111/output3.tif"/>
+<img width="5072" height="2205" alt="figure4" src="https://github.com/user-attachments/assets/3975fa47-ec60-402e-aa78-7aa02b9c0106" />
 
 
 
