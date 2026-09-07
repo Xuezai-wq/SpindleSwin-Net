@@ -1,4 +1,3 @@
-[output1.tif](https://github.com/user-attachments/files/31891477/output1.tif)
 # SpindleSwin-Net
 
 ## Description
